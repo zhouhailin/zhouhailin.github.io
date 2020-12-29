@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# Starter
 
-You can use the [editor on GitHub](https://github.com/zhouhailin/zhouhailin.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## IntelliJ IDEA Community
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 基础设置
 
-### Markdown
+- File | Settings | Editor | General | Console | (Default Encoding)
+- File | Settings | Editor | Code Style | (Line separator)
+- File | Settings | Editor | File and Code Templates | Includes | (File Header)
+- File | Settings | Editor | File Encodings | (Project Encoding | Default encoding for properties files)
+- File | Settings | Version Control | Commit | (Optimize imports | Cleanup)
+- File | Settings | Build, Execution, Deployment | Build Tools | Maven | (Maven home patch)
+- File | Settings | Build, Execution, Deployment | Compiler | Annotation Processors | (Enable annotation processing)
+- File | Settings | Tools | Terminal | (Shell path)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 项目设置
 
-```markdown
-Syntax highlighted code block
+- File | New Projects Settings | Structure for New Project | Project SDK
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### 插件
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhouhailin/zhouhailin.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Lombok
+- Alibaba Java Coding Guidelines
+- Alibaba Cloud Toolkit
+- arthas idea
+- Codota AI Autocomplete for Java and JavaScript
+- Material Theme UI (个人不太喜欢)
+- GenerateAllSetter
+-  Json Parser
+- JUnitGenerator
+- MyBatis Log Plugin (需要付费，需要旗舰版)
+- RestfulToolkit
+- Translation
+- Key Promoter X
